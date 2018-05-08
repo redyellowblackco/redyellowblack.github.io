@@ -2,7 +2,7 @@ html, body{
   height: 100%;
 }
 body{
-  background-color: yellow;
+  background-color: #F6EE55;
   //background-image: url("img/yellow.jpg");
   background-size:cover;
   background-repeat: no-repeat;
